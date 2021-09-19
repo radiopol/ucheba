@@ -1,5 +1,6 @@
 pink
 come on
+get out
 git clone - клонирование репозитория на локалку
 git add - подготовить файлы для коммита
 git commit - коммит
