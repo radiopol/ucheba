@@ -1,4 +1,5 @@
 git clone - клонирование репозитория на локалку
+test test
 git add - подготовить файлы для коммита
 git commit - коммит
 git commit -a - add вместе с commit
